@@ -1,0 +1,50 @@
+PODS:
+  - iCarousel (1.8.3)
+  - RAMAnimatedTabBarController (5.2.0)
+  - ShimmerSwift (2.1.1)
+  - TransitionButton (0.5.3)
+  - URLImage (2.2.5):
+    - URLImage/Common (= 2.2.5)
+    - URLImage/DownloadManager (= 2.2.5)
+    - URLImage/FileIndex (= 2.2.5)
+    - URLImage/ImageDecoder (= 2.2.5)
+    - URLImage/Log (= 2.2.5)
+    - URLImage/PlainDatabase (= 2.2.5)
+    - URLImage/RemoteContentView (= 2.2.5)
+  - URLImage/Common (2.2.5)
+  - URLImage/DownloadManager (2.2.5):
+    - URLImage/Log
+  - URLImage/FileIndex (2.2.5):
+    - URLImage/Common
+    - URLImage/Log
+    - URLImage/PlainDatabase
+  - URLImage/ImageDecoder (2.2.5)
+  - URLImage/Log (2.2.5)
+  - URLImage/PlainDatabase (2.2.5)
+  - URLImage/RemoteContentView (2.2.5)
+
+DEPENDENCIES:
+  - iCarousel
+  - RAMAnimatedTabBarController
+  - ShimmerSwift
+  - TransitionButton
+  - URLImage
+
+SPEC REPOS:
+  trunk:
+    - iCarousel
+    - RAMAnimatedTabBarController
+    - ShimmerSwift
+    - TransitionButton
+    - URLImage
+
+SPEC CHECKSUMS:
+  iCarousel: d782f635afac190c49bb8ee455882284cff8b85f
+  RAMAnimatedTabBarController: 6863a386e7ae2ab227cd60aa73ab8ff56cdacfdd
+  ShimmerSwift: f7ed2daf9c246de8299dfd9e12c6ab465cba9842
+  TransitionButton: 36283346e17c64775a1b3bc3a7a72940a367de1f
+  URLImage: 36a66c03ba2a9ccbbf06bc83431f2cef171008e8
+
+PODFILE CHECKSUM: 2f69fa89184278892d68d5450374e17e116088be
+
+COCOAPODS: 1.11.3
