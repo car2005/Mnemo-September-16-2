@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-Mnemo/Pods-Mnemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/RAMAnimatedTabBarController/RAMAnimatedTabBarController.framework
+${BUILT_PRODUCTS_DIR}/ShimmerSwift/ShimmerSwift.framework
+${BUILT_PRODUCTS_DIR}/TransitionButton/TransitionButton.framework
+${BUILT_PRODUCTS_DIR}/URLImage/URLImage.framework
+${BUILT_PRODUCTS_DIR}/iCarousel/iCarousel.framework
